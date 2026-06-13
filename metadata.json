@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Core SaaS",
+  "description": "SaaS de gestion d'entreprise, tableau de bord analytique et automatisation RH en temps réel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
